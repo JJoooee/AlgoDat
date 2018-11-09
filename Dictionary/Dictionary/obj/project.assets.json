@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\Dictionary-master\\Dictionary-master\\Dictionary\\Dictionary\\Dictionary.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\Dictionary\\Dictionary\\Dictionary.csproj",
       "projectName": "Dictionary",
-      "projectPath": "C:\\Users\\Administrator\\Downloads\\Dictionary-master\\Dictionary-master\\Dictionary\\Dictionary\\Dictionary.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Downloads\\Dictionary\\Dictionary\\Dictionary.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Downloads\\Dictionary-master\\Dictionary-master\\Dictionary\\Dictionary\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Downloads\\Dictionary\\Dictionary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
